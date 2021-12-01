@@ -1,0 +1,6 @@
+Manager John_Smith male 1981 1 21 1234567 2020 12 1 12000 3500 4000
+Developer Leslie_Nielsen male 1926 2 11 1105934 2015 1 30 1200 senior backend_developer
+Developer Jacob_Mole male 1996 4 10 5739206 2018 5 12 1200 junior frontend_developer
+Support Juliet_Rhodes female 1999 8 1 3810385 2019 4 2 35 55
+Support Rowan_Atkinson male 1955 1 6 9981924 2016 2 2 20 33 
+Manager Helen_Allen female 1992 4 12 3857387 2019 2 3 13200 2150 3600 
